@@ -1,11 +1,11 @@
-## <samp>Hello World!</samp> <img src="https://github.com/Ayajaddi/Ayajaddi/blob/main/assets/earth.gif" width="22px">, I'm Aya Jaddi 👋
+## <samp>Hello World!</samp> , I'm Aya Jaddi 👋
 
 
-<samp> I'm Aya jaddi, currently I'm a Software Developper <img src="https://github.com/Ayajaddi/Ayajaddi/blob/main/assets/developer.gif" width="30px">, passionate about solving problems with new technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
+<samp> I'm Aya jaddi, currently I'm a Software Developper , passionate about solving problems with new technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
 
 
 
-
+<br/>
 :mailbox: Reach me out!
 
 
@@ -32,7 +32,7 @@
 
 
 
-[![Linkedin: aya jaddi](https://img.shields.io/badge/-Ouhamza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaddi-aya/)](linkedin.com/in/jaddi-aya/)
+[![Linkedin: aya jaddi](https://img.shields.io/badge/-jaddi-aya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaddi-aya/)](linkedin.com/in/jaddi-aya/)
 [![GitHub Ayajaddi](https://img.shields.io/github/followers/ouhamzalhss?label=follow&style=social)](https://github.com/Ayajaddi)
 
 **Languages and Tools:**  
