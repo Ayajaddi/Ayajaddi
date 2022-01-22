@@ -42,10 +42,4 @@
 <code><img height="20" src="https://pbs.twimg.com/profile_images/1235870003292856320/iRG4_ojf_400x400.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"></code>
 
- 
-<a href="https://github.com/ouhamzalhss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouhamzalhss&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/ouhamzalhss">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ouhamzalhss&show_icons=true&theme=light&line_height=27" alt="ouhamza's github stats"/>
-</a>
+
