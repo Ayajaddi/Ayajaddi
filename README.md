@@ -41,9 +41,9 @@
 <code><img height="20" src="https://pbs.twimg.com/profile_images/1235870003292856320/iRG4_ojf_400x400.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"></code>
 
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/294px-Node.js_logo.svg.png"></code>
+<code><img height="17" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/294px-Node.js_logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mongo-db-logo.png/640px-Mongo-db-logo.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/640px-MySQL_textlogo.svg.png"></code>
+<code><img height="14" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/640px-MySQL_textlogo.svg.png"></code>
 
 
 
